@@ -80,7 +80,6 @@ GitHub's file size limits prevent including the original 2GB+ files. This reposi
 - Analysis code
 - Data cleaning pipelines
 - Sample datasets
-- Visualization outputs
 
 ## 📜 License  
 MIT License - Free for academic and commercial use with attribution.
