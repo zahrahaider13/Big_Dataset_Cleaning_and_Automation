@@ -59,6 +59,29 @@ This repository contains cleaned datasets and automation tools for analyzing **4
 | "Are violations increasing yearly?" | Group by `issue_year` | Combined |
 | "Top 10 ticket-issuing officers?" | Rank `issuer_code` | 2014 |
 
+## 📁 Data Sources
+
+### Raw Data
+The original raw datasets (2014-2017) are available from:
+- [NYC Parking Violations on Kaggle]([https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets](https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets))
+- Each annual file is ~2GB in size (CSV format)
+
+### Processed Data
+The cleaned/analyzed datasets (smaller subsets) are included in this repository:
+- `cleaned_2014_sample.csv` (10,000 rows)
+
+### Full Cleaned Datasets
+For access to the complete cleaned datasets (41M+ rows):
+📧 Contact: learnpythoneveryday101@gmail.com 
+🔗 Alternative download options available upon request
+
+## ⚠️ Note on Repository Size
+GitHub's file size limits prevent including the original 2GB+ files. This repository contains:
+- Analysis code
+- Data cleaning pipelines
+- Sample datasets
+- Visualization outputs
+
 ## 📜 License  
 MIT License - Free for academic and commercial use with attribution.
 
